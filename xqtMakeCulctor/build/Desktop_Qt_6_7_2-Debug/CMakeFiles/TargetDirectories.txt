@@ -1,0 +1,9 @@
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/xqtMakeCulctor.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/xqtMakeCulctor_autogen_timestamp_deps.dir
+/home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/xqtMakeCulctor_autogen.dir

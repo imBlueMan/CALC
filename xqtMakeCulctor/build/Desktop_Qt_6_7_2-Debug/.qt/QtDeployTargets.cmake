@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_xqtMakeCulctor_FILE /home/blue/Documents/QtProjects/xqtMakeCulctor/build/Desktop_Qt_6_7_2-Debug/xqtMakeCulctor)
+set(__QT_DEPLOY_TARGET_xqtMakeCulctor_TYPE EXECUTABLE)
